@@ -1,2 +1,0 @@
-# Jue-Config
-Jue Config
