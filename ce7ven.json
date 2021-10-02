@@ -2,105 +2,57 @@
    "files": [    
 
 {
-         "name": "SG-Ce7ven-001-Free",
-         "url": "https://juessh.000webhostapp.com/SG-Ce7ven-001.ovpn"
+         "name": "SG-VPS-001-Free",
+         "url": "https://juessh.000webhostapp.com/SG-VPS-001.ovpn"
       },
 
 
 {
-         "name": "SG-Ce7ven-002-Free",
-         "url": "https://juessh.000webhostapp.com/SG-Ce7ven-002.ovpn"
+         "name": "SG-VPS-002-Free",
+         "url": "https://juessh.000webhostapp.com/SG-VPS-002.ovpn"
       },
 {
-         "name": "SG-Ce7ven-003-Free",
-         "url": "https://juessh.000webhostapp.com/SG-Ce7ven-003.ovpn"
-      },
-
-{
-         "name": "SG-Ce7ven-004-Free",
-         "url": "https://juessh.000webhostapp.com/SG-Ce7ven-004.ovpn"
-      },
-
-
-      
-{
-         "name": "SG-Ce7ven-005-Free",
-         "url": "https://juessh.000webhostapp.com/SG-Ce7ven-005.ovpn"
+         "name": "SG-VPS-003-Free",
+         "url": "https://juessh.000webhostapp.com/SG-VPS-003.ovpn"
       },
 
 {
-         "name": "IN-Ce7ven-001-Free",
-         "url": "https://juessh.000webhostapp.com/IN-Ce7ven-001.ovpn"
-      },
-
-
-{
-         "name": "IN-Ce7ven-002-Free",
-         "url": "https://juessh.000webhostapp.com/IN-Ce7ven-002.ovpn"
-      },
-{
-         "name": "DE-Ce7ven-001-Free",
-         "url": "https://juessh.000webhostapp.com/DE-Ce7ven-001.ovpn"
-      },
-
-{
-         "name": "DE-Ce7ven-002-Free",
-         "url": "https://juessh.000webhostapp.com/DE-Ce7ven-002.ovpn"
+         "name": "IN-VPS-001-Free",
+         "url": "https://juessh.000webhostapp.com/IN-VPS-001.ovpn"
       },
 
 
       
 {
-         "name": "US-Ce7ven-001-Free",
-         "url": "https://juessh.000webhostapp.com/US-Ce7ven-001.ovpn"
-      },
-
-      
-{
-         "name": "US-Ce7ven-002-Free",
-         "url": "https://juessh.000webhostapp.com/US-Ce7ven-002.ovpn"
+         "name": "IN-VPS-002-Free",
+         "url": "https://juessh.000webhostapp.com/IN-VPS-002.ovpn"
       },
 
 {
-         "name": "SG-Ce7ven-006-Free",
-         "url": "https://juessh.000webhostapp.com/SG-Ce7ven-006.ovpn"
+         "name": "DE-VPS-001-Free",
+         "url": "https://juessh.000webhostapp.com/DE-VPS-001.ovpn"
       },
 
 
 {
-         "name": "SG-Ce7ven-007-Free",
-         "url": "https://juessh.000webhostapp.com/SG-Ce7ven-007.ovpn"
+         "name": "DE-VPS-002-Free",
+         "url": "https://juessh.000webhostapp.com/DE-VPS-002.ovpn"
       },
 {
-         "name": "SG-Ce7ven-008-Free",
-         "url": "https://juessh.000webhostapp.com/SG-Ce7ven-008.ovpn"
-      },
-
-{
-         "name": "SG-Ce7ven-009-Free",
-         "url": "https://juessh.000webhostapp.com/SG-Ce7ven-009.ovpn"
-      },
-
-
-      
-{
-         "name": "SG-Ce7ven-010-Free",
-         "url": "https://juessh.000webhostapp.com/SG-Ce7ven-010.ovpn"
+         "name": "US-VPS-001-Free",
+         "url": "https://juessh.000webhostapp.com/US-VPS-001.ovpn"
       },
 
 {
-         "name": "SG-Ce7ven-011-Free",
-         "url": "https://juessh.000webhostapp.com/SG-Ce7ven-011.ovpn"
-      },
-
-{
-         "name": "SG-VIP-Free",
-         "url": "https://juessh.000webhostapp.com/DTAC-002.ovpn"
+         "name": "US-VPS-002-Free",
+         "url": "https://juessh.000webhostapp.com/US-VPS-002.ovpn"
       }
 
 
+      
+
    ],
-"message":"Update 2 October 2021\n•Add More SG\n•Version: 4\n•update: 21/09/2021\n•Update by: JueHtet\n• Config By:JH ",
+"message":"Update 2 October 2021\n•Add More SG\n•Version: 5\n•update: 21/09/2021\n•Update by: JueHtet\n• Config By:JH ",
    "title":"လောလောဆယ်5ဖိုင်ပါ အသစ်များထပ်ထည့်ပေးပါ့မယ်" ,
-   "version": 4
+   "version": 5
 }
